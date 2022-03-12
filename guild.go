@@ -26,3 +26,6 @@ type guild struct {
 	Autorole            bool
 	Autoroles           []string
 }
+
+func token(token string) {
+}
